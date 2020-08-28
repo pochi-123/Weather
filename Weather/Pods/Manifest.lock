@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.1)
+  - SVProgressHUD (2.2.5)
+  - XLPagerTabStrip (8.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - SVProgressHUD
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SVProgressHUD
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  XLPagerTabStrip: 63166e21c9844fa30f2d95d30f335e73be5caf22
+
+PODFILE CHECKSUM: fdd3efc8e068c4a6a394342668f8694ce723622d
+
+COCOAPODS: 1.6.1
